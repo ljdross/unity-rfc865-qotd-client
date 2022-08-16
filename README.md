@@ -2,7 +2,7 @@
 
 This is a simple client connecting to a server, receiving data, and displaying it.
 
-- Connects and reads asynchronously, to avoid halting of the game (framerate/performance drop)
+- Connects and reads asynchronously, to avoid halting of the game (fps/performance drop)
 - Caches one quote in advance, to avoid further waiting
 - Implements the [RFC 865 Quote of the Day Protocol](https://datatracker.ietf.org/doc/html/rfc865)
 
