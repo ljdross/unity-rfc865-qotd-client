@@ -1,6 +1,6 @@
 # Unity Quote of the Day (QOTD) Client implementing RFC 865
 
-This is a simple client connecting to a server, receiving data and displaying it.
+This is a simple client connecting to a server, receiving data, and displaying it.
 
 - Connects and reads asynchronously, to avoid halting of the game (framerate/performance drop)
 - Caches one quote in advance, to avoid further waiting
