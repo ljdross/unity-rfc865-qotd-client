@@ -11,3 +11,11 @@ This is a simple client connecting to a server, receiving data, and displaying i
 - Hit the wall with the box, by moving it with the arrow keys
 - Receive a pre-cached quote
 - Repeat
+
+## Environment
+Tested on
+- Unity 2021.3.7f1
+- Windows 10
+
+## Sample Video
+[![Link to YouTube Video](https://img.youtube.com/vi/1A-CHKNtaRw/0.jpg)](https://youtu.be/1A-CHKNtaRw)
